@@ -18,3 +18,9 @@ Daily tracking of DSA problems, C++ implementation, and core concepts.
 1. **Zero Handling:**
 2. **Preventing Data Overflow:** 
 3. **Precision in Division:** 
+
+### ⚙️ How to Run:
+1. Open terminal in your code directory.
+2. Compile using `g++`:
+   ```bash
+   g++ Basics
